@@ -504,3 +504,49 @@ const prompt = require ("prompt-sync")();
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 
+
+
+// const carro = {
+//     marca : "Fiat" ,
+//     cor : "Preto" ,
+//     combustivel : 6.25,
+
+    
+//     media : function() {
+//         console.log("O valor gasto será de : " + calc)
+//     }
+// }
+
+// let km = parseFloat(prompt("Quantos km voce vai andar"));
+// carro.km = km;
+
+// let combustivel = 6.25;
+
+// let calc = combustivel*km;
+
+// carro.media()
+
+
+
+
+/////////////////////
+
+// const pessoas = {
+//     peso : 0,
+//     al : 0,
+
+//     mostrar : function(){
+//         console.log("Seu imc é de :" + cacl)
+//     }
+// }
+
+// let al = parseFloat(prompt("Qual sua altura?"))
+// al.pessoas = al;
+
+// let peso = parseFloat(prompt("Qual seu peso"))
+// peso.pessoas = peso
+
+
+// let cacl = peso / (al*al);
+
+// pessoas.mostrar()
